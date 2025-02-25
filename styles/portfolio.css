@@ -140,6 +140,15 @@ p {
   padding: 120px 60px;
 }
 
+.contact-links a {
+  text-decoration: none;
+  color: black;
+}
+
+.contact-links a:hover {
+  color: var(--branding-color);
+}
+
 footer {
   margin: 60px 0;
 }
